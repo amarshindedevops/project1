@@ -5,7 +5,7 @@
    </head>
    
    <body>
-      
+      /*This program will show file input output
       <?php
          $filename = "tmp.txt";
          $file = fopen( $filename, "r" );
