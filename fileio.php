@@ -1,7 +1,7 @@
 <html>
 
    <head>
-      <title>Reading a file using PHP</title>
+      <title>File I/O using PHP</title>
    </head>
    
    <body>
